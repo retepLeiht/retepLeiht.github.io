@@ -5,11 +5,9 @@ permalink: /about/
 ---
 
 
-### More Information
+### Who am I?
 
-lorem ispum test
-
-Just another person with ideas and opinions.
+Just another person with ideas and opinions..
 
 ### Contact me
 
