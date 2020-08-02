@@ -1,8 +1,6 @@
 ---
 layout: post
 title: necessary and sufficient conditions to maximise learning
-tags:
-- brain_spill
 ---
 
 - cavemen had crude abilities in making art but are master hunter/gathers

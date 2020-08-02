@@ -1,8 +1,6 @@
 ---
 layout: post
 title: wisdom of the crowd vs madness of the crowd
-tags:
-    - brain_spill
 ---
 
 - wisdom of the crowd states that the average of a large enough sample size ($n \rightarrow \infty$) of answers towards a simple question such as "the population size of the United States" will yield a guess that is very close to the correct answer.
