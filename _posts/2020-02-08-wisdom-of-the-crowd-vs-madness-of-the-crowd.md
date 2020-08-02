@@ -1,10 +1,11 @@
 ---
 layout: post
 title: wisdom of the crowd vs madness of the crowd
-tags: brain_spill
+tags:
+    - brain_spill
 ---
 
-- wisdom of the crowd states that the average of a large enough sample size ($n \rightarrow \infty$) of answers towards a simple question such as "the population size of Hong Kong" will yield a guess that is very close to the correct answer.
+- wisdom of the crowd states that the average of a large enough sample size ($n \rightarrow \infty$) of answers towards a simple question such as "the population size of the United States" will yield a guess that is very close to the correct answer.
 
 - madness of the crowd is a syndrome that occurs when a large group of ill-informed public, influenced by a minority faction of individuals acting on bad faith. the combination of these two groups typically kickstarts a the lynch mod mentality on individual(s) (frequently high profile) by condemning their actions from some arbitrarily defined moral high ground, usually self-contradictory and dogmatic in some ways.
 
