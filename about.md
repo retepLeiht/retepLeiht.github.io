@@ -7,7 +7,7 @@ permalink: /about/
 
 ### Who am I?
 
-Just another person with ideas and opinions..
+Just another person with ideas and opinions.
 
 ### Contact me
 
