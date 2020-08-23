@@ -16,9 +16,9 @@ We must also assume that the majority of the public intend to act in good faith.
 
 Under that assumption, I submit to you a draft of a potential solution to avoid madness: understand the motives of the person behind the question and the reaction from the audience.
 
+--
 
-
-<!-- To avoid participating unwittingly in driving a conversation towards madness, one must attempt to identify what factors in the formulation of a question/opinion lead to each of the two outcomes:
+To avoid participating unwittingly in driving a conversation towards madness, one must attempt to identify what factors in the formulation of a question/opinion lead to each of the two outcomes:
 
 - timing of the question (when to ask one)
 - phrasing of the question
@@ -26,4 +26,3 @@ Under that assumption, I submit to you a draft of a potential solution to avoid 
 - who is asking this question
 
 These factors are also usually considered by an audience in order to understand the motive of person(s) that asked the question, and to contextualize the question itself.
- -->
